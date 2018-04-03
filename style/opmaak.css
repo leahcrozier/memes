@@ -1,0 +1,116 @@
+body {
+    background-image: url("ooo.gif");
+    background-repeat:repeat;
+    background-size: 1292 × 768;
+
+}
+
+
+
+h1 {
+  text-align: center;
+  border: 4px ridge #ccffff;
+   margin: 0 40% 0 40%;
+  font-family:"Comic Sans MS", cursive, sans-serif;
+  font-size: 32;
+  text-shadow: 0 0 10px #8adba5;
+
+
+}
+
+h2{
+  text-align: center;
+
+  font-family:"Comic Sans MS", cursive, sans-serif;
+  font-size: 30;
+  color: white;
+  text-shadow: 0 0 4px #C0F9B2;
+}
+
+h3{
+  text-align: center;
+
+  font-family:"Comic Sans MS", cursive, sans-serif;
+  font-size: 22;
+  color: white;
+  text-shadow: 0 0 4px #C0F9B2;
+}
+
+p {
+  text-align: center;
+
+  font-family:"Comic Sans MS", cursive, sans-serif;
+  font-size: 24;
+  color: white;
+  text-shadow: 0 0 4px #C0F9B2;
+}
+
+.center {
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+    width: 50%;
+    size: 100px;
+}
+
+/* Add a black background color to the top navigation */
+.menu {
+    background-color: #0D0D0D;
+    overflow: hidden;
+}
+
+/* Style the links inside the navigation bar */
+.menu a {
+  float: left;
+  text-align: center;
+  padding: 14px 16px;
+  text-decoration: none;
+  font-family:"Comic Sans MS", cursive, sans-serif;
+  font-size: 18px;
+  color:#e6ffe6
+}
+
+/* Change the color of links on hover */
+.menu a:hover {
+  background-color: #8adba5;
+  color: black;
+}
+
+/* Add a color to the active/current link */
+.menu a.active {
+  background-color: #8adba5;
+  color: white;
+}
+
+.antwoord {
+  color: #8adba5;
+  background-color: #8adba5;
+}
+/* dit is voor als je je muis over het balkje doe */
+.antwoord:hover {
+  color: black;
+}
+
+table, th, td {
+   border: 3px solid #8adba5;
+   text-align: center;
+   font-family:"Comic Sans MS", cursive, sans-serif;
+   font-size: 24;
+   color: white;
+   text-shadow: 0 0 4px #C0F9B2;
+}
+
+a{
+  text-decoration: none;
+}
+
+ul li {
+    text-align: center;
+    font-family:"Comic Sans MS", cursive, sans-serif;
+    font-size: 24;
+    color: white;
+    text-shadow: 0 0 4px #C0F9B2;
+    list-style: inside circle none;
+
+
+}
